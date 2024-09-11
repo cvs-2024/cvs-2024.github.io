@@ -29,3 +29,5 @@ Please inform before (by email) that you plan to attend office hours.
 
 | Week | Date | Topics | Slides | Labs |
 | ---- | ---- | ------ | ------ | ---- |
+| 1    | 16 Sep |      |        |      |
+| ---- | ---- | ------ | ------ | ---- |
