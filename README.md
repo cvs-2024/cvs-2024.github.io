@@ -29,5 +29,6 @@ Please inform before (by email) that you plan to attend office hours.
 
 | Week | Date | Topics | Slides | Labs |
 | ---- | ---- | ------ | ------ | ---- |
-| 1    | 16 Sep |      |        |      |
+| 1    | 16 Sep | Verified Functional Programs: introduction  |        |      |
+| 1    | 16, 19 Sep | Introduction to the Coq Proof Assistant |        |      |
 | ---- | ---- | ------ | ------ | ---- |
